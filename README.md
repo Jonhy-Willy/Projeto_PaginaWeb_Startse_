@@ -1,4 +1,3 @@
-# Projeto_Curso_Startse_
 # Página de Portifólio StartSe
 
 ![preview](./.github/preview.png)

@@ -1,2 +1,21 @@
 # Projeto_Curso_Startse_
-Projeto em HTML e CSS que vai evoluindo com o passar das aulas, logo será incluído também Javascript!
+# Página de Portifólio StartSe
+
+![preview](./.github/preview.png)
+
+> Exemplo Página de Portifólio
+
+Projeto construído em aula no módulo CSS Moderno na Startse.
+
+[ 🔗 Clique aqui para acessar](https://jonhy-willy.github.io/Projeto_PaginaWeb_Startse_/)
+
+# 🛠 Tecnologias
+
+- HTML
+- CSS
+- Git e Github
+
+# 💙 Contato
+
+jonhy.willy.jw71@gmail.com
+

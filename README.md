@@ -14,6 +14,6 @@ Projeto construído em aula no módulo CSS Moderno na Startse.
 - CSS
 - Git e Github
 
-# 💛 Contato
+# 💙 Contato
 
 jonhy.willy.jw71@gmail.com

@@ -1,7 +1,5 @@
 # Página de Portifólio StartSe
 
-![preview](./.github/preview.png)
-
 > Exemplo Página de Portifólio
 
 Projeto construído em aula no módulo CSS Moderno na Startse.
